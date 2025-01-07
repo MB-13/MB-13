@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Mahavir Bharadwa!  
 
+![Animated Avatar](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
+
 🚀 **Aspiring AI/ML Developer | Final-Year Computer Engineering Student**  
 🔍 Passionate about solving real-world problems through intelligent, scalable solutions in **AI**, **Deep Learning**, and **Full-Stack Development**.  
 
