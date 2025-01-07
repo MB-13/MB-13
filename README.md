@@ -5,11 +5,18 @@
 
 ---
 
+### 🤖 **Meet My Coding Buddy!**  
+![Cute Robot Coding](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)  
+
+This little robot loves to code, just like me! Together, we're building intelligent systems and having fun along the way. 🚀  
+
+---
+
 ### 🌟 **About Me**
 - 🎓 **Education**: Pursuing B.E. in Computer Engineering (Gandhinagar Institute of Technology)  
 - 💻 **Key Skills**: TensorFlow, PyTorch, Django, Flask, NLP, Computer Vision, Deep Learning Algorithms  
 - 🧠 **Interests**: AI/ML, NLP, Computer Vision, Full-Stack Development  
-- 🌐 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/mahavir-bharadwa/) | [GitHub](https://github.com/MB-13)
+- 🌐 **Portfolio**: [LinkedIn](https://www.linkedin.com/in/mahavir-bharadwa/) | [GitHub](https://github.com/MB-13)  
 
 ---
 
